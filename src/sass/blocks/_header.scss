@@ -11,18 +11,18 @@
     &__offciel {
         display: block;
         text-align: center;
-        width: 215px;
-            p {
-                color: #FFF;
-                font-size: 12px;
-                font-weight: 500;
-                margin-bottom: 5px;
-            }
-            span {
-                color: #FFF;
-                font-size: 18px;
-                font-weight: 500;
-            }
+        p {
+            width: 215px;        
+            color: #FFF;
+            font-size: 12px;
+            font-weight: 500;
+            margin-bottom: 5px;
+        }
+        span {
+            color: #FFF;
+            font-size: 18px;
+            font-weight: 500;
+        }
     }
     &__phone {
         display: block;

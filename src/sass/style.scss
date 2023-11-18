@@ -5,7 +5,10 @@
 @import 'blocks/promo';
 @import 'blocks/header';
 @import 'blocks/buttons';
+@import 'blocks/advantages';
+@import 'blocks/media';
+
 .container { 
-    max-width: 950px;
+    width: 950px;
     margin: 0 auto;
 }
